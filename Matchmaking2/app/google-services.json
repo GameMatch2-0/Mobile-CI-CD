@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637126240893",
+    "project_id": "matchmaking-efdaa",
+    "storage_bucket": "matchmaking-efdaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637126240893:android:23d32ea8c5551edf799f14",
+        "android_client_info": {
+          "package_name": "com.example.matchmaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637126240893-tpltdr214c0nbq24kb66j08ojio94rmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjlVakLZdeq0wA6PccJlzP61Ia8znHBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637126240893-tpltdr214c0nbq24kb66j08ojio94rmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
